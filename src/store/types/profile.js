@@ -1,0 +1,7 @@
+export const ADD_KANJI = 'ADD_KANJI'
+export const REMOVE_KANJI = 'REMOVE_KANJI'
+export const REMOVE_ALL_KANJI = 'REMOVE_ALL_KANJI'
+
+export const ADD_VOCAB = 'ADD_VOCAB'
+export const REMOVE_VOCAB = 'REMOVE_VOCAB'
+export const REMOVE_ALL_VOCAB = 'REMOVE_ALL_VOCAB'
