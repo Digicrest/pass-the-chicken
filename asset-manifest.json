@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/pass-the-chicken/static/css/main.a5f26f28.chunk.css",
+    "main.js": "/pass-the-chicken/static/js/main.dcf701dd.chunk.js",
+    "main.js.map": "/pass-the-chicken/static/js/main.dcf701dd.chunk.js.map",
+    "runtime-main.js": "/pass-the-chicken/static/js/runtime-main.4e4d05f2.js",
+    "runtime-main.js.map": "/pass-the-chicken/static/js/runtime-main.4e4d05f2.js.map",
+    "static/js/2.3423bfb8.chunk.js": "/pass-the-chicken/static/js/2.3423bfb8.chunk.js",
+    "static/js/2.3423bfb8.chunk.js.map": "/pass-the-chicken/static/js/2.3423bfb8.chunk.js.map",
+    "index.html": "/pass-the-chicken/index.html",
+    "precache-manifest.db7cfc7cb09449bc5683a5b8fb57ffb4.js": "/pass-the-chicken/precache-manifest.db7cfc7cb09449bc5683a5b8fb57ffb4.js",
+    "service-worker.js": "/pass-the-chicken/service-worker.js",
+    "static/css/main.a5f26f28.chunk.css.map": "/pass-the-chicken/static/css/main.a5f26f28.chunk.css.map",
+    "static/js/2.3423bfb8.chunk.js.LICENSE.txt": "/pass-the-chicken/static/js/2.3423bfb8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4e4d05f2.js",
+    "static/js/2.3423bfb8.chunk.js",
+    "static/css/main.a5f26f28.chunk.css",
+    "static/js/main.dcf701dd.chunk.js"
+  ]
+}
